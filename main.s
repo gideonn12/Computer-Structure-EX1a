@@ -23,7 +23,7 @@ win_fmt:
 inco_fmt:
     .string "Incorrect.\n"
 over_fmt:
-    .string "Game over, you lost :(. The coorect answer was %d\n"
+    .string "Game over, you lost :(. The correct answer was %d\n"
 
 .section .text
 .globl main
